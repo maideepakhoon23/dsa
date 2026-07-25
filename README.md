@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/maideepakhoon23/dsa/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/maideepakhoon23/dsa/tree/master/1288-remove-covered-intervals) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/maideepakhoon23/dsa/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
