@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/maideepakhoon23/dsa/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/maideepakhoon23/dsa/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maideepakhoon23/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/maideepakhoon23/dsa/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/maideepakhoon23/dsa/tree/master/1288-remove-covered-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maideepakhoon23/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/maideepakhoon23/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/maideepakhoon23/dsa/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/maideepakhoon23/dsa/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/maideepakhoon23/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
