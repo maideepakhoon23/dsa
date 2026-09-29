@@ -87,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/maideepakhoon23/dsa/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/maideepakhoon23/dsa/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/maideepakhoon23/dsa/tree/master/0577-employee-bonus) |
+| [1517-find-users-with-valid-e-mails](https://github.com/maideepakhoon23/dsa/tree/master/1517-find-users-with-valid-e-mails) |
 <!---LeetCode Topics End-->
