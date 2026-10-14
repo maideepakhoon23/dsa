@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/maideepakhoon23/dsa/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/maideepakhoon23/dsa/tree/master/0023-merge-k-sorted-lists) |
+| [0707-design-linked-list](https://github.com/maideepakhoon23/dsa/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/maideepakhoon23/dsa/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/maideepakhoon23/dsa/tree/master/0584-find-customer-referee) |
 | [1517-find-users-with-valid-e-mails](https://github.com/maideepakhoon23/dsa/tree/master/1517-find-users-with-valid-e-mails) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/maideepakhoon23/dsa/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
